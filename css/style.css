@@ -330,7 +330,7 @@ p {
 
 @media (max-width: 400px) {
     .av {
-        width: auto;
+        width: 80%;
         height: 200px;
     }
     .friend_photo {
@@ -343,5 +343,17 @@ p {
     }
     .my_photo {
         height: 65px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
+    .go_to {
+        font-size: smaller;
+    }
+    .action, .add_friend {
+        margin-left: 0px;
+        width: 40%;
+    }
+    .status, .photos_caption, .photos_items, .post_caption, .post {
+        margin-left: 2px;
+}
 }
