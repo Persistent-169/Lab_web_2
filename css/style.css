@@ -331,7 +331,7 @@ p {
 @media (max-width: 400px) {
     .av {
         width: 100%;
-        height: 250px;
+        height: 200px;
     }
     .friend_photo {
         width: 50px;
