@@ -322,6 +322,9 @@ p {
         height: 30px;
         font-size: medium;
     }
+    .my_photo {
+        height: 60px;
+    }
 }
 /*
 @media (max-width: 600px) {
