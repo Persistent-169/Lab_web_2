@@ -311,6 +311,14 @@ p {
         width: 60px;
 }
 
+@media (max-width: 500px) {
+    .av {
+        height: 300px;
+    }
+    .friend_photo {
+        width: 50px;
+}
+    
 /*
 @media (max-width: 600px) {
 
