@@ -353,9 +353,9 @@ p {
     .action, .add_friend {
         margin-left: 5px;
         margin-right: 5px;
-        width: 40%;
+        width: 47%;
     }
-    .status, .photos_caption, .photos_items, .post_caption, .post {
+    .status, .photos_caption, .photos_items, .posts_caption, .post {
         margin-left: 5px;
 }
 }
