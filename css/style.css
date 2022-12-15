@@ -74,17 +74,16 @@
     height: 55px;
     width: 100%;
     align-items: center;
+    font-size: larger;
 }
 
 .net {
     margin-right: 10px;
     align-self: flex-end center;
-    font-size: larger;
     color: darkgreen;
 }
 
 .name {
-    font-size: larger;
     margin-left: 10px;
 }
 
@@ -310,15 +309,20 @@ p {
     .friend_photo {
         width: 60px;
 }
-
+}
 @media (max-width: 500px) {
     .av {
         height: 300px;
     }
     .friend_photo {
         width: 50px;
+        height: 50px;
 }
-    
+    .heading {
+        height: 30px;
+        font-size: medium;
+    }
+}
 /*
 @media (max-width: 600px) {
 
